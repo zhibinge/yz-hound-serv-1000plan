@@ -19,6 +19,8 @@ import java.util.List;
  */
 public class testAnsj {
    public static void main(String[] args){
+
+//       做了修改
        //基本分词方法
 //       List<Term> parse = BaseAnalysis.parse("我今天在索答做了一些事情，呵呵呵呵，待会就去唱歌了哦。");
 //       System.out.println(parse);
